@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "905169160442",
+    "firebase_url": "https://tp-5-584fb-default-rtdb.firebaseio.com",
+    "project_id": "tp-5-584fb",
+    "storage_bucket": "tp-5-584fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905169160442:android:adcae7950a57b289d12143",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cP0X3xZfyJa1qgHndXtGkyM990qw3co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

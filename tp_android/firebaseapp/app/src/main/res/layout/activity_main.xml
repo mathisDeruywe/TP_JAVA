@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="12dp"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/etNom"
+        android:hint="Nom"/>
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="Email"/>
+    <EditText
+        android:id="@+id/etTel"
+        android:hint="Téléphone"/>
+    <Button
+        android:id="@+id/btnAdd"
+        android:text="Ajouter"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

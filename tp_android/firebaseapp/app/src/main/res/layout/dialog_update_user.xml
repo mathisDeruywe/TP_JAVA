@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16dp"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/etNomUpd"
+        android:hint="Nom"/>
+    <EditText
+        android:id="@+id/etEmailUpd"
+        android:hint="Email"/>
+    <EditText
+        android:id="@+id/etTelUpd"
+        android:hint="Téléphone"/>
+</LinearLayout>
